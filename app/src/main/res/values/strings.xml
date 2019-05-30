@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cluedo</string>
+    <string name="remove" translatable="false">-</string>
+    <string name="add" translatable="false">+</string>
+    <string name="reset">reset</string>
+    <string name="suspects">Suspects</string>
+    <string name="weapons">Weapons</string>
+    <string name="locations">Locations</string>
+    <string name="not_edit_yet">Feature implemented in the next update</string>
+</resources>

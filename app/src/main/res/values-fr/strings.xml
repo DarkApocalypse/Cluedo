@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cluedo</string>
+    <string name="reset">Vider</string>
+    <string name="suspects">Suspects</string>
+    <string name="weapons">Armes</string>
+    <string name="locations">Lieux</string>
+    <string name="not_edit_yet">Disponible dans la prochaine mise à jours</string>
+</resources>
